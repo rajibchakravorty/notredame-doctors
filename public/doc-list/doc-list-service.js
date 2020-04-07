@@ -97,7 +97,7 @@ angular.module('notredemian-doc-list.services')
     },
     {
       name: "Dr Mohammad Rashedul Hasan",
-      primary_contact: "N/A",
+      primary_contact: "+8801717026838",
       secondary_contact: "N/A",
       description: "Senior Consultant(Cardiology)",
       institute: "Noakhali General Hospital",
