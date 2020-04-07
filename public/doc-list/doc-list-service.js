@@ -102,7 +102,7 @@ angular.module('notredemian-doc-list.services')
       description: "Senior Consultant(Cardiology)",
       institute: "Noakhali General Hospital",
       email: "N/A",
-      location: "Dhaka"
+      location: "Noakhali"
     },
     {
       name: "Dr. Mohammad Mahfuzur Rahman",
