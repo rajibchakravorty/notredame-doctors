@@ -6,6 +6,15 @@ angular.module('notredemian-doc-list.services')
 
 	let allDoctors = [
     {
+      name: "Dr. Ishtiaq Alam",
+      primary_contact: "+8801711173240",
+      secondary_contact: "N/A",
+      description: "Assistant Professor (Colorectal Surgery)",
+      institute: "SSMC & Mitford Hospital"
+      email: "N/A",
+      location: "Dhaka"
+    },
+    {
       name: "Dr. Muhammad Asaduzzaman",
       primary_contact: "+8801711736692",
       secondary_contact: "N/A",
