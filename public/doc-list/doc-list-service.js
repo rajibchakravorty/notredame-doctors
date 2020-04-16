@@ -6,6 +6,15 @@ angular.module('notredemian-doc-list.services')
 
 	let allDoctors = [
     {
+      name: "Dr. Kazi Md. Hannanur Rahman", 
+      primary_contact: "+8801720213544",
+      secondary_contact: "N/A",
+      description: "Assistant Professor (Orthopaedic Surgery)",
+      institute: "National Institure of Traumatology and Orthopaedic Rehabilitation (NITOR)",
+      email: "N/A",
+      location: "Dhaka"
+    },
+    {
       name: "Dr. Ishtiaq Alam",
       primary_contact: "+8801711173240",
       secondary_contact: "N/A",
